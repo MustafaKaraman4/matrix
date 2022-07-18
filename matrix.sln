@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "matrix", "udemy\matrix.csproj", "{5F99B64B-0881-4E22-A276-0F50E62D382E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "matrix", "matrix.csproj", "{5F99B64B-0881-4E22-A276-0F50E62D382E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {0520BD3E-C24D-41E9-A9A7-A38E54208B39}
+		SolutionGuid = {B6B50607-5434-405B-994E-A439EE671569}
 	EndGlobalSection
 EndGlobal
